@@ -1,0 +1,169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Whereas by a clause in the act intituled, an Act for Explaining of Some Doubts Arising upon an Act, intituled, an Act for the Better Execution of His Majesties Gracious Declaration for the Settlement of his Kingdom of Ireland ... by the Lord Lieutenant and Council, Ormonde.</title>
+            <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1667</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46104</idno>
+            <idno type="STC">Wing I715</idno>
+            <idno type="STC">ESTC R36825</idno>
+            <idno type="EEBO-CITATION">16140302</idno>
+            <idno type="OCLC">ocm 16140302</idno>
+            <idno type="VID">104809</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 104809)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1595:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Whereas by a clause in the act intituled, an Act for Explaining of Some Doubts Arising upon an Act, intituled, an Act for the Better Execution of His Majesties Gracious Declaration for the Settlement of his Kingdom of Ireland ... by the Lord Lieutenant and Council, Ormonde.</title>
+                  <author>Ireland. Lord Lieutenant (1661-1669 : Ormonde)</author>
+                  <author>Ormonde, James Butler, Duke of, 1610-1688.</author>
+               </titleStmt>
+               <extent>[2] leaves.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crook ... and are to be sold by Samuel Dancer ...,</publisher>
+                  <pubPlace>Dublin :</pubPlace>
+                  <date>1667.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first 4 lines of text.</note>
+                  <note>Statement of responsibility transposed from head of title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at the Council chamber in Dublin the 15 day of October, 1667"--leaf [2]</note>
+                  <note>Broadside in [2] leaves.</note>
+                  <note>Reproduction of original in the Society of Antiquaries Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rent --  Ireland.</term>
+               <term>Ireland --  History --  1649-1775.</term>
+               <term>Ireland --  Politics and government --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:104809:1"/>
+            <!-- PDF PAGE 31 -->
+            <head>
+               <figure>
+                  <head>C<hi rend="sup">2</hi> R</head>
+                  <q>DIEV ET MON DROIT</q>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>BY THE Lord Lieutenant and Council.</head>
+            <opener>
+               <signed>ORMONDE,</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas by a Clauſe in the Act intituled, <hi>And Act for explaining of ſome doubts ariſing upon an Act, intituled, An Act for the better execution of His Majeſties gracious Declaration for the ſettlement of His Kingdom of <hi>Ireland,</hi> and ſatisfaction of the ſeveral intereſts of Adventurers, Souldiers, and other His Subjects there, and for making ſome alterations of, and additions unto the ſaid Act, for the more ſpeedy and effectual ſettlement of the ſaid Kingdom,</hi> one years Rent of all the Lands in <hi>Ireland,</hi> which were returned by the Civil Survey to belong to any Iriſh Papiſt, Popiſh Recuſant, or Roman Catholick, and of all other the Lands wherein any Adventurer or Souldier, His Heirs, Exe<g ref="char:EOLhyphen"/>cutors or Aſſigns hath any benefit of ſettlement, or confirmation by vir<g ref="char:EOLhyphen"/>tue of the ſaid Act, was to be raiſed and paid unto the Receivers there<g ref="char:EOLhyphen"/>in appointed, by two even and equal payments, the firſt payment where<g ref="char:EOLhyphen"/>of was to have been upon the firſt day <hi>February,</hi> which was in the year, of our Lord, <hi>1665.</hi> and the ſecond payment on the firſt day of <hi>February,</hi> which was in the year, <hi>1666.</hi> under the penalty in the ſaid Act menti<g ref="char:EOLhyphen"/>oned; And whereas His Majeſtie in purſuance of the ſaid Act by His Letters-patents under the Great-Seal of this Kingdom, bearing date the <hi>17</hi> day of <hi>January,</hi> in the Eighteenth year of His Reign, hath conſti<g ref="char:EOLhyphen"/>tuted and appointed Commiſſioners to aſcertain the ſaid years Rent, And the ſaid Commiſſioners have informed Vs the Lord Lieutenant and Council, that they have already aſcertained the ſaid years rent of the greateſt part of the Lands, which by the ſaid Act are charged therewith, and that the valuation of the ſaid years Rent, doth at preſent remain in the hands of <hi>Matthew Barry</hi> 
+               <abbr>Eſq</abbr> Secretary to the ſaid Commiſſioners: And that when the ſaid Commiſſioners ſhall have finiſhed that work, a Duplicate thereof is to be returned into His Majeſties Court of Exche<g ref="char:EOLhyphen"/>quer, as by the ſaid Act is directed, there to remain a charge upon Re<g ref="char:EOLhyphen"/>cord,
+<pb facs="tcp:104809:2"/>
+               <!-- PDF PAGE 32 -->
+upon all and every the Meſſuages, Lands and Tenements therein mentioned, whereupon Proces will iſſue out of the ſaid Court for levying the ſame, which may prove inconvenient to ſeveral of His Majeſties Subjects, in caſe timely notice be not given unto them of the days of pay<g ref="char:EOLhyphen"/>ment of the ſeveral ſums of money, whereunto by the ſaid Act the ſaid Lands are liable: To the end therefore the perſons concerned in the ſaid payments, may not be ſurprized, We have thought fit hereby to declare and appoint, That the ſaid ye<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rs Rent, as the ſame is and ſhall be aſ<g ref="char:EOLhyphen"/>certained by the ſaid Commiſſioners, is to be paid unto <hi>John Bence,</hi> and <hi>Alexander Bence</hi> Eſquires, Receivers by the Act appointed, or one of them, by two even and equal portions, The firſt payment thereof to be on or before the <hi>24</hi> day of <hi>June,</hi> which ſhall be in the year of our Lord, <hi>1668.</hi> and the ſecond payment thereof to be on or before the <hi>24</hi> day of <hi>June,</hi> which ſhall be in the year of our Lord, <hi>1669.</hi> out of which ſecond payment, all and every the ſums of money formerly paid to the Earl of <hi>Orrery,</hi> and Lord Viſcount <hi>Maſſereene,</hi> in purſuance of the Act of Settlement, are to be allowed to the perſon and perſons who have paid the ſame, his and their Heirs, Executors and Aſſigns, in full diſcharge of ſo much of their Rent payable by the ſaid Act of Explanation, as the moneys ſo as aforeſaid paid do amount unto.</p>
+            <closer>
+               <dateline>Given at the Council Chamber in <hi>Dublin</hi> 
+                  <date>the 15 day of <hi>October,</hi> 1667.</date>
+               </dateline>
+               <signed>
+                  <list>
+                     <item>Ja. Armachanus.</item>
+                     <item>Mich. Dublin. Canc.</item>
+                     <item>Roſcommon.</item>
+                     <item>Drogheda.</item>
+                     <item>Dungannon.</item>
+                     <item>Fran. Aungier.</item>
+                     <item>Heugh Glenaully.</item>
+                     <item>Fra. Hamilton.</item>
+                     <item>Art. Forbeſs.</item>
+                  </list>
+               </signed>
+               <lb/>
+GOD Save the KING.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>D<g ref="char:V">Ʋ</g>BLIN:</hi> Printed by <hi>John Crook,</hi> Printer to the Kings Moſt Excellent Majeſty, and are to be ſold by <hi>Samuel Dancer,</hi> Bookſeller in <hi>Caſtle-ſtreet,</hi> 1667.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
